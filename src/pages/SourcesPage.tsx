@@ -53,7 +53,7 @@ const sources = {
       url: 'https://www.nkp.cz/',
     },
   ],
-];
+};
 
 const SourcesPage: React.FC = () => {
   const { language } = useLanguage();
